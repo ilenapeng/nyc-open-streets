@@ -1,6 +1,6 @@
-borough,percent
-Bronx,84
-Queens,69
-Brooklyn,60
-Staten Island,44
-Manhattan,34
+borough,pct-operational,pct-non-operational
+Bronx,16,84
+Queens,31,69
+Brooklyn,40,60
+Staten Island,56,44
+Manhattan,66,34
